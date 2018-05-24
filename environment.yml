@@ -8,5 +8,6 @@ dependencies:
  - python=3
  - scikit-learn
  - sklearn-pandas
+ - keras
  - pip:
    - tensorflow
