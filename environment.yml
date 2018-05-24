@@ -7,5 +7,6 @@ dependencies:
  - pandas
  - python=3
  - scikit-learn
+ - sklearn-pandas
  - pip:
    - tensorflow
